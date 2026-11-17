@@ -38,4 +38,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://robliation.github.io/muhammed-portfolio-site/sitemap.xml
+Sitemap: https://muhammedwork7623-blip.github.io/M-Designer-portfolio/sitemap.xml

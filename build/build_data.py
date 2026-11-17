@@ -12,7 +12,7 @@ SRC = lambda name: os.path.join(HERE, name)
 man = json.load(open(SRC("manifest.json"), encoding="utf-8"))
 assets = json.load(open(SRC("assets.json"), encoding="utf-8"))
 
-BASE = "https://robliation.github.io/muhammed-portfolio-site/"
+BASE = "https://muhammedwork7623-blip.github.io/M-Designer-portfolio/"
 NOW = datetime.date.today().isoformat()
 
 # Brands the owner asked to take out of the site entirely.

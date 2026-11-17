@@ -2,7 +2,7 @@
 
 Bilingual (Arabic-first) portfolio site for **Muhammad Al-Masri / محمد المصري**, a graphic designer in Mecca, Saudi Arabia, presenting **65 advertising designs** created for **37 brands** across restaurants, food, dairy, beverages, retail and tourism.
 
-**Live site:** https://robliation.github.io/muhammed-portfolio-site/
+**Live site:** https://muhammedwork7623-blip.github.io/M-Designer-portfolio/
 **Behance:** https://www.behance.net/M_Designer_Original
 **Email:** muhammedwork7623@gmail.com
 

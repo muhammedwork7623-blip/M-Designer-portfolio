@@ -7,7 +7,7 @@ OUT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 
 s = open(os.path.join(OUT, "assets", "js", "data.js"), encoding="utf-8").read()
 D = json.loads(re.search(r"window\.MD_DATA\s*=\s*(\{.*?\});\n", s, re.S).group(1))
 
-BASE = "https://robliation.github.io/muhammed-portfolio-site/"
+BASE = "https://muhammedwork7623-blip.github.io/M-Designer-portfolio/"
 EMAIL = "muhammedwork7623@gmail.com"
 
 counts = {}
