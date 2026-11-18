@@ -754,6 +754,32 @@
    "year": 2025
   },
   {
+   "id": "jahez-hunger-cant-wait",
+   "brand_en": "Jahez",
+   "brand_ar": "جاهز",
+   "tagline_ar": "جاهز؟ جوعك ما ينتظر",
+   "tagline_en": "Ready? Your hunger can't wait",
+   "cat": "apps",
+   "images": [
+    {
+     "file": "تصميم لشركة جاهز (جاهز؟ جوعك ما ينتظر).png",
+     "w": 2048,
+     "h": 2048,
+     "ratio": 1.0,
+     "bytes": 4647008,
+     "year": 2026,
+     "date": "2026-11-18",
+     "orient": "square"
+    }
+   ],
+   "sources": [
+    "تصميم لشركة جاهز (جاهز؟ جوعك ما ينتظر).png"
+   ],
+   "behance": null,
+   "behance_id": null,
+   "year": 2026
+  },
+  {
    "id": "hungerstation-legendary-speed",
    "brand_en": "Hungerstation",
    "brand_ar": "هنقرستيشن",
@@ -1965,5 +1991,5 @@
    "مفاهيم تجريبية"
   ]
  },
- "source_count": 81
+ "source_count": 82
 }

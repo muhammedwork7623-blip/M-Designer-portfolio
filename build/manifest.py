@@ -85,6 +85,7 @@ W = [
     # --- Apps & ordering
     ("jahez-delivery-flies", "Jahez", "جاهز", "توصيلنا مثل الطيارة", "Our delivery flies like a plane", "apps", ["تصميم لشركة جاهز (توصيلنا مثل الطيارة) بالطول.jpg", "تصميم لشركة جاهز (توصيلنا مثل الطيارة).jpg"]),
     ("jahez-pizza-feast", "Jahez", "جاهز", "عروض بيتزا", "Floating pizza feast", "apps", ["تصميم لشركة جاهز.jpg"]),
+    ("jahez-hunger-cant-wait", "Jahez", "جاهز", "جاهز؟ جوعك ما ينتظر", "Ready? Your hunger can't wait", "apps", ["تصميم لشركة جاهز (جاهز؟ جوعك ما ينتظر).png"]),
     ("hungerstation-legendary-speed", "Hungerstation", "هنقرستيشن", "سرعة خرافية", "Legendary speed", "apps", ["تصميم لشركة هنقرستيشن (سرعة خرافية).jpg"]),
     ("gofood-at-your-door", "GoFood", "جوفود", "طلبك على الباب", "Your order at your door", "apps", ["sources/gofood-at-your-door.png"]),
     ("notion-arrab-afkarak", "Notion", "نوتشن", "رتب أفكارك", "Get your ideas in order", "apps", ["sources/notion-arrab-afkarak.png"]),
